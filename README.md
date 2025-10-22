@@ -97,6 +97,11 @@ The Tableau dashboard provides:
 1. **Clone or download** this repository  
    ```bash
    git clone https://github.com/Gokulanandh-p/data-analyst-job-market-analysis.git
+
+
+   ## 🚀 Try It Yourself
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gokulanandh-p/data-analyst-job-market-analysis/blob/main/analysis.ipynb)
+
 👤 Author
 
 Gokul Anandh Palanisamy
